@@ -64,7 +64,7 @@ function App() {
 
   return (
     <div style={{ padding: "20px", fontFamily: "Arial" }}>
-      <h1>📦 Pedidos</h1>
+      <h1>📦 Pedidos cambio imagen</h1>
 
       <form onSubmit={handleAddOrder} style={{ marginBottom: "20px" }}>
         <input
